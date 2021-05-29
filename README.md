@@ -52,8 +52,8 @@ This report provides an analysis and evaluation of the factors that affect SAT (
 - SAT and ACT tests have 2 uses
     - To fulfill college entrance requirements
     - To fulfill federal requirement of 'No child left behind'
-- For the colleage entrance requirement, students will only take a test if they know they can do well in it and if they need the test to go college. The decision to take the test is personal and volutary
-- For the federal requiremeent, states education adminstration need to fulfill this requirement and thus made taking the SAT or ACT mandatory for all student in the state, even the students who do not make the grade to go college will have to take the test thus pulling down the average score
+- Taking the test for college entrance requirement is personal and voluntary, as such students will only take a test if they know they can do well in it and if they need the test to go college.
+- For the federal requirement, states' education administration need to fulfill this requirement and thus made taking the SAT or ACT mandatory for all student in the state, even the students who do not make the grade to go college will have to take the test thus pulling down the average score
 - There is not much differences in the score distribution of the 2 test. A student cannot expect to be higher in the distribution of 1 test than the other
 - Both tests do not give surprises to the student so a student can generally expect to do well if he do well in mock test based on previous year questions.
 - Might not be the most effective to compete with ACT using scores given the similarities between the 2 tests. Also college might adjust the benchmarking
@@ -65,7 +65,7 @@ This report provides an analysis and evaluation of the factors that affect SAT (
 ## Recommendation
 
 - To maximize use of resources, recommended to increase SAT participation by focusing on making it the test states to use to fulfill federal requirement
-- As there is a trend of more colleges are dispensing with SAT or ACT test as compulsory for college entrance requirement, the population to use SAT for college enrance is in the danger of shrinking over time
+- As there is a trend of more colleges are dispensing with SAT or ACT test as compulsory for college entrance requirement, the population to use SAT for college entrance is in the danger of shrinking over time
 - Its use as a test for the federal requirement is more long term and also the population catchment is much larger
 - State education still need a mandatory test for the federal requirement for ‘No Child Left Behind’. Better it be SAT than other test
 - Furthermore, the College Board have tried and tested successful in states like Colorado and Illinois

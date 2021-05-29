@@ -11,7 +11,7 @@
 - [Descriptive and Inferential Statistics](#Descriptive-and-Inferential-Statistics)
 - [Outside Research](#Outside-Research)
 - [Conclusions and Recommendations](#Conclusions-and-Recommendations)
-- [References and Data Sources]
+- [References and Data Sources](#References-and-Data-Sources)
 
 
 ## Executive Summary
